@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/Test/include",
-                "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/Test/src",
+                "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/ENGR-498-Repo/include",
+                "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/ENGR-498-Repo/src",
                 "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/Test/include",
-                    "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/Test/src",
+                    "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/ENGR-498-Repo/include",
+                    "C:/Users/mdnol/OneDrive/Documents/PlatformIO/Projects/ENGR-498-Repo/src",
                     "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/mdnol/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
